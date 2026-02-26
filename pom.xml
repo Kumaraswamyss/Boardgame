@@ -15,7 +15,7 @@
 
     <groupId>com.javaproject</groupId>
     <artifactId>database_service_project</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>database_service_project</name>
     <description>Project for Spring Boot</description>
     <packaging>jar</packaging>
@@ -157,11 +157,11 @@
     <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://174.129.52.230:8081/repository/maven-releases/</url>
+            <url>http://13.221.252.50:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://174.129.52.230:8081/repository/maven-snapshots/</url>
+            <url>http://13.221.252.50:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
